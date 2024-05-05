@@ -15,7 +15,7 @@ pip install pygame
 - Clone this repository:
 
 ```bash
-git clone https://github.com/deltabrot/python-pong/tree/master
+git clone https://github.com/deltabrot/python-pong.git
 ```
 
 - Change to the repository directory:
