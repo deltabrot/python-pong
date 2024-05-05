@@ -1,0 +1,14 @@
+# node_modules
+node_modules/
+
+# yarn
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+yarn.lock
+
+# idea
+.idea/
+
+# vscode
+.vscode/
